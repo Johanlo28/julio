@@ -3,3 +3,4 @@ cuentocuento
 primer:un pagarito
 segundo un perrito
 
+trecer: un gatito
